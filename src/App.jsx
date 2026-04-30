@@ -33,7 +33,7 @@ const App = () => {
                 youtubega kirish
             <button className=''></button>
   
-
+<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illo necessitatibus facere nobis enim magni, dicta consectetur. Beatae rerum quos delectus eaque! Voluptatum natus veniam labore nihil facilis officia qui quaerat?</p>
 
 
 
