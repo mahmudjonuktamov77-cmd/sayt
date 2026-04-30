@@ -8,10 +8,8 @@ import About from './companents/About'
 const App = () => {
   return (
     <BrowserRouter>
-   <div className='h-auto border-2 flex gap-[20px]+
-   
-   мjustify-around items-center'>
-             <img src="" alt="" />
+   <div className='h-auto border-2 flex gap-[20px]justify-around items-center'>
+      
                
              <ul className='flex justify-evenly  gap-[20px] w-[60%] border-2'> 
               <li><Link to="./">home</Link></li>
@@ -19,8 +17,18 @@ const App = () => {
               <li><Link to="/Tecno">Tecno</Link></li>
               
              </ul>
-         
-   <h1>salom</h1>
+          
+           <div className='w-[40%] border-2  flex justify-evenly'>
+            <span className=''>
+              <p>call center <br />
+              +9984442200</p>
+            </span>
+              <button>BOOK Coll</button>
+              
+              
+
+           </div>
+
                
             <button className=''></button>
   
