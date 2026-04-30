@@ -18,16 +18,19 @@ const App = () => {
                 <span>88888888888</span>
                </p>
              <ul className='flex justify-evenly  gap-[20px]'> 
-              <li><Link to="./"></Link>home</li>
-              <li><Link to="/About"></Link>About</li>
-              <li><Link to="/Tecno"></Link>Tecno</li>
-              <li><Link to="/City"></Link>City</li>
-              <li><Link to="/Contact"></Link>Contact</li>
+              <li><Link to="./">home</Link></li>
+              <li><Link to="/About">about</Link></li>
+              <li><Link to="/Tecno">Tecno</Link></li>
+              <li><Link to="/City">city</Link></li>
+              <li><Link to="/Contact">Contact</Link></li>
              </ul>
                 <p>
                   <span>777777777</span> <br />
                   <span>55555555</span>
                 </p>
+
+                <a href=""></a>
+                youtubega kirish
             <button className=''></button>
   
 
